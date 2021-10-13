@@ -1,0 +1,4 @@
+
+PUT http://localhost:8080/users
+Content-Type: application/json
+{"id":null,"username":hui,"password":"hhh","name":"hui","active":false,"googleName":hui,"googleUsername":hui,"roles":null}
